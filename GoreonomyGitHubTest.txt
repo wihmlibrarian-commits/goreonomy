@@ -1,0 +1,2477 @@
+Goreonomy: The Index Thesaurus-developed by Lizzy Walker, Associate Professor, Metadata & Digital Initiatives Librarian, Wichita State University Libraries
+
+The Goreonomy is currently being updated. We are aware that LCSH contains problematic language. That is why the Goreonomy does not solely rely on the established subject headings for our tags. As terminology is updated by various Subject Authority Cooperative Program (SACO) funnels that are working to correct and update headings, we will ensure our own tags are kept up to date. Please contact us if you find a tag in the index problematic and we will find a solution.
+
+Goreonomy
+
+KEY:
+
+UF=Use For
+
+BT=Broader Term
+
+NT=Narrower Term
+
+RT=Related Term
+
+USE=Use this term
+
+Terms are generally taken from the Library of Congress Subject Headings unless indicated by the following:
+
+AMC Filmsite Glossary terms:*
+
+Common industry terms: ^
+
+Homosaurus: ^^
+
+abduction 
+RT kidnapping 
+ 
+abuse 
+NT abused teenagers 
+       abusive relationships  
+       animal cruelty 
+      child abuse 
+      domestic abuse 
+      emotional abuse 
+      mental abuse 
+      physical abuse 
+      psychological abuse 
+      spousal abuse 
+ 
+abused teenagers 
+BT abuse 
+      teenagers 
+ 
+abusive relationships 
+BT abuse 
+     relationships 
+ 
+abusive women 
+BT women 
+ 
+academic works 
+ 
+acceptance 
+ 
+accidents 
+BT violent deaths 
+acrophobia 
+BT phobias 
+ 
+addiction  
+ 
+adultery 
+BT marriage 
+RT affairs 
+ 
+affairs 
+RT adultery 
+ 
+African Americans  
+RT Black Americans 
+ 
+aging 
+ 
+agoraphobia 
+BT phobias 
+ 
+alcoholism 
+BT mental illness 
+ 
+alien invasion 
+BT aliens 
+      invasion  
+ 
+alien technology 
+BT aliens 
+ 
+aliens 
+NT alien invasion 
+      alien technology 
+RT extraterrestrials 
+ 
+all-girl bands (music) or women’s bands (music)? 
+UF girl bands 
+ 
+alter ego 
+RT doppelgängers 
+ 
+amputation 
+BT body modification 
+ 
+ 
+android 
+BT robots 
+ 
+angels 
+BT spirits 
+      unseen entity 
+ 
+animal cruelty 
+BT abuse 
+ 
+animal mutation 
+ 
+animals 
+NT cats 
+      chickens 
+      cryptids 
+      dogs 
+      leopards 
+      monkeys 
+      snakes 
+ 
+animation 
+BT horror films 
+RT anime 
+ 
+anime 
+BT horror films 
+RT animation 
+ 
+anthology films* 
+BT horror films 
+ 
+anti-hero 
+ 
+anxiety 
+BT emotions 
+RT fear 
+NT social anxiety 
+ 
+apartment houses 
+ 
+Appalachian Trail 
+ 
+art 
+NT sculpture 
+art house films* 
+BT horror films 
+ 
+Asian extreme films 
+BT horror films 
+ 
+assassins 
+UF hired killers 
+ 
+astral projection 
+BT parapsychology 
+ 
+asylums 
+NT mental hospitals 
+ 
+attention-deficit hyperactivity disorder 
+BT behavioral disorders in children 
+ 
+atomic USE atomic warfare 
+ 
+atomic warfare 
+BT war 
+UF atomic 
+ 
+augury USE divination 
+ 
+autism 
+ 
+autobiographical films 
+BT horror films 
+ 
+b movies 
+BT horror films 
+RT b films 
+ 
+banshee 
+BT folklore 
+ 
+bed bugs 
+BT insects 
+ 
+beauty USE feminine beauty (aesthetics) 
+ 
+beauty pageants 
+ 
+bees 
+BT insects 
+ 
+betrayal 
+BT ethics 
+ 
+biology experiments USE biology—experiments  
+UF experiments  
+ 
+bipolar disorder 
+BT mental illness 
+ 
+birth 
+ 
+Black Americans 
+RT African Americans 
+ 
+black and white  
+RT black and white films 
+ 
+black and white films 
+RT black and white 
+ 
+black arts USE occultism 
+ 
+black comedy 
+BT horror films 
+ 
+black magic USE occultism 
+ 
+Black women 
+ 
+Blaxploitation films* 
+BT horror films 
+ 
+blindness 
+ 
+blood 
+BT body fluids  
+ 
+blood donation 
+BT medical procedures 
+ 
+ 
+ 
+body horror" 
+BT horror films 
+RT body horror films 
+     Cronenbergian 
+ 
+body horror films 
+BT horror films 
+RT body horror 
+      Cronenbergian 
+ 
+body image 
+RT self-harm 
+ 
+body modification^ 
+NT amputation 
+piercings 
+scarification 
+tattoos 
+ 
+body shaming 
+BT bullying 
+      emotional abuse 
+ 
+bowling 
+ 
+brides 
+ 
+brothers 
+BT family 
+siblings 
+ 
+bugs USE true bugs  
+ 
+bullying 
+RT emotional abuse 
+physical abuse 
+NT body shaming 
+ 
+burglary 
+BT theft 
+ 
+burial, premature? 
+UF buried alive 
+ 
+buried alive USE burial, premature? (Or keep ‘buried alive’) 
+camping 
+RT camps 
+ 
+camps 
+NT nudist camps 
+RT camping 
+ 
+cannibal films 
+BT horror films 
+RT cannibalism 
+ 
+cannibalism 
+RT cannibal films 
+ 
+capitalism 
+ 
+captivity 
+ 
+caregivers 
+ 
+castles  
+ 
+cat calling 
+BT sexual harassment 
+RT street harassment 
+ 
+catatonia 
+BT sleep disorders 
+ 
+Catholic Church 
+BT Christianity 
+ 
+cats 
+BT animals 
+ 
+cautionary tales 
+BT horror films? 
+ 
+cell phones 
+BT technology 
+ 
+cemeteries 
+RT graveyard 
+ 
+chefs 
+chemistry—experiments  
+ 
+chickens 
+BT animals 
+ 
+child abduction 
+RT kidnapping 
+ 
+child abuse 
+BT abuse 
+NT child sexual abuse 
+      Munchausen syndrome by proxy 
+ 
+child molesters 
+UF child predators 
+BT sex offenders 
+ 
+child predators USE child molesters 
+ 
+child protagonist 
+BT children 
+ 
+child sexual abuse 
+BT child abuse 
+      sexual abuse 
+ 
+children 
+NT brothers 
+child protagonist 
+girls 
+siblings 
+sisters 
+ 
+children with disabilities 
+ 
+Christian cults 
+BT cults 
+religions 
+ 
+Christianity 
+BT religions 
+NT Catholic Church 
+ 
+Christmas 
+BT holidays 
+Churail 
+BT mythological creatures 
+ 
+circus  
+ 
+Civil War USE United States—History—Civil War, 1861-1865? 
+ 
+class USE classism 
+ 
+class warfare USE social conflict  
+ 
+classic horror films 
+BT horror films 
+ 
+classic literature 
+ 
+classism 
+UF class 
+UF classist 
+ 
+classist USE classism 
+ 
+clowns 
+NT killer clowns 
+ 
+coeds 
+ 
+college 
+BT schools 
+ 
+coma 
+BT neurological conditions 
+ 
+comedy  
+RT comedy films 
+ 
+comedy films 
+RT comedy 
+ 
+coming of age films 
+ 
+communicable diseases 
+UF contagion 
+BT diseases 
+      Infection 
+RT epidemics 
+competition 
+ 
+contagion USE communicable diseases 
+ 
+cooking 
+  
+corruption 
+ 
+Countess Elizabeth Bathory 
+RT Elizabeth Bathory 
+ 
+COVID-19 USE COVID-19 Pandemic, 2020- 
+ 
+COVID-19 Pandemic, 2020- 
+UF COVID-19 
+BT epidemics 
+      outbreak 
+      pandemics 
+      virus 
+ 
+creature  
+RT creature features 
+ 
+creature features 
+BT horror films 
+RT creature 
+      monster films 
+NT Frankenstein films 
+      mad scientist films 
+      mummy films  
+      vampire films 
+      werewolf films 
+      zombie films 
+ 
+crime 
+RT criminal justice, administration of 
+NT sexual abuse 
+ 
+crime and punishment USE punishment in crime deterrence? 
+ 
+criminal justice, administration of 
+Here are entered works on the criminal justice system. Works on the discipline that studies the causes, detection and prevention of crime, and the treatment or punishment of criminals, are entered under [Criminology.] Works on the occurrence of crime are entered under [Crime.] 
+UF criminal justice system 
+RT crime 
+      criminals 
+NT police 
+ 
+criminal justice system USE criminal justice, administration of 
+ 
+criminals 
+RT criminal justice, administration of 
+NT gangs 
+      killers      
+      murderers 
+      sexual predators      
+      stalkers 
+      street gangs 
+ 
+Cronenbergian films 
+BT horror films 
+RT body horror 
+ 
+cryptids 
+BT animals 
+      folklore 
+ 
+cult films 
+BT horror films 
+UF cult classics 
+ 
+cult leaders 
+BT cults 
+ 
+cults 
+BT religions 
+NT Christian cults 
+      cult leaders 
+      Satanic cults 
+ 
+cursed land 
+ 
+curses 
+ 
+cutting This entry/tag was not the same as cutting (self-mutilation) 
+ 
+dancing 
+ 
+dark fairytales 
+BT fairy tales 
+      horror films 
+ 
+dark fantasy 
+BT horror films 
+ 
+dating 
+BT relationships 
+ 
+daughters 
+RT mothers 
+BT women 
+ 
+Deadites^ 
+BT demons 
+RT Evil Dead 
+  
+death  
+RT death--causes  
+ 
+death—causes 
+NT suicide 
+       violent death  
+RT death 
+ 
+death penalty 
+NT lethal injection  
+ 
+deception 
+NT pranks? 
+ 
+dementia 
+BT mental illness 
+psychosis 
+ 
+demonic possession 
+BT possession 
+RT Evil Dead 
+ 
+ 
+demons  
+BT spirits 
+      unseen entity 
+RT Evil Dead 
+NT Deadites 
+      devils 
+ 
+depression 
+BT mental illness 
+NT postpartum depression 
+prepartum depression 
+ 
+desire 
+BT emotions 
+ 
+detectives 
+BT police 
+ 
+devil worship USE Satanism 
+ 
+devils 
+BT demons 
+ 
+diaries 
+BT personal narratives 
+RT journals 
+ 
+dinner parties 
+BT parties 
+ 
+disabilities 
+BT diseases 
+NT mental illness 
+ 
+disaster films 
+ 
+diseases 
+RT epidemics 
+      illness 
+      outbreak 
+NT communicable diseases 
+      disabilities 
+ 
+disfigurement  
+ 
+divination 
+UF augury 
+soothsaying 
+BT occultism 
+NT tarot cards 
+ 
+doctors 
+ 
+documentaries 
+BT nonfiction films 
+ 
+documentary-style films 
+RT mockumentaries 
+ 
+dogs 
+BT animals 
+ 
+dolls 
+BT toys 
+NT haunted dolls 
+ 
+domestic abuse 
+BT abuse 
+NT physical abuse 
+psychological abuse 
+ 
+doppelgängers 
+RT alter ego 
+ 
+doula 
+ 
+Dracula films 
+BT classic horror films 
+horror films 
+ 
+draughts 
+ 
+dreams 
+BT visions 
+NT nightmares 
+ 
+drug use 
+RT hallucinations 
+mental illness 
+ 
+drugs 
+NT street drugs 
+ 
+dysfunctional families 
+BT family 
+RT dysfunctional family 
+ 
+dysfunctional family 
+BT family 
+RT dysfunctional families 
+ 
+dysfunctional relationships 
+BT relationships 
+ 
+eco horror 
+BT horror films 
+ 
+Edgar Allan Poe 
+RT Red Death 
+ 
+earthquakes 
+ 
+Easter 
+BT holidays 
+ 
+eating disorders 
+ 
+Egypt 
+ 
+electronic voice phenomenon 
+BT parapsychology 
+RT EVP 
+ 
+Elizabeth Bathory 
+RT Countess Elizabeth Bathory 
+ 
+Elvira 
+BT horror hosts 
+ 
+Elvis impersonators USE Elvis Presley impersonators 
+ 
+Elvis Presley impersonators 
+UF Elvis impersonators 
+ 
+ 
+emotional abuse 
+RT bullying 
+NT body shaming 
+ 
+emotional trauma? 
+Here are entered works on a psychological injury stemming from a stressful or life-threatening situation to one's psyche or personality. 
+UF trauma? 
+ 
+emotions 
+BT psychology 
+NT anxiety 
+      desire 
+      fear 
+      grief 
+      jealousy 
+      love 
+      madness 
+      regret 
+ 
+environmental justice 
+Here are entered works on equal protection from environmental and health hazards for all people regardless of race, income, culture, or social class. 
+BT social justice 
+ 
+epidemics 
+RT communicable diseases 
+      disease 
+      outbreak 
+NT COVID-19 Pandemic, 2020- 
+       pandemics 
+ 
+erotica 
+ 
+ethics 
+NT betrayal 
+      corruption 
+      Good and evil 
+       pleasure 
+ 
+Evil Dead^ 
+BT horror films? 
+RT Deadites 
+      demonic possession 
+      demons      
+EVP 
+RT electronic voice phenomenon 
+ 
+exorcism 
+ 
+experiments USE experiments under scientific or technical topics for discussions about experiments and instructions for carrying them out (e.g., biology experiments, chemistry experiments) 
+ 
+exploitation films 
+BT horror films 
+RT grindhouse films 
+NT hixploitation 
+      video nasty  
+ 
+extrasensory perception 
+BT parapsychology 
+ 
+fairy tales 
+NT dark fairytales 
+BT horror films 
+ 
+families USE family 
+ 
+family 
+UF families 
+RT home 
+NT dysfunctional families 
+      dysfunctional family  
+ 
+family secrets 
+BT secrecy 
+ 
+fashion 
+ 
+fate 
+ 
+FBI 
+UF Federal Bureau of Investigation 
+ 
+fear 
+BT emotions 
+RT anxiety 
+NT phobias 
+      terror 
+ 
+Federal Bureau of Investigation USE FBI 
+ 
+female friendship 
+UF friendship between women 
+BT friendship 
+relationships 
+ 
+feminine beauty (aesthetics) 
+Here are entered works on the attractiveness of women as a philosophic or artistic concept. 
+UF beauty 
+ 
+feminist 
+ 
+fetishism 
+ 
+filicide 
+BT murder 
+ 
+film noir 
+BT horror films 
+ 
+filmmaking 
+ 
+folk horror 
+BT horror films 
+ 
+folklore 
+RT storytelling 
+      urban legends 
+NT banshees 
+      cryptids 
+      fairies       
+      legends        
+      urban folklore 
+      vrykolakas  
+ 
+force feeding 
+ 
+found footage films 
+BT horror films 
+ 
+Frankenstein films 
+BT classic horror films 
+      creature features  
+      horror films 
+fratricide 
+BT murder 
+ 
+friendship 
+NT female friendship 
+ 
+friendship between women USE female friendship 
+ 
+games 
+NT party games 
+      puzzles 
+ 
+gangs 
+BT criminals 
+RT street gangs 
+ 
+gaslighting 
+ 
+gay relationships 
+BT relationships 
+romance 
+ 
+generational trauma 
+Here are entered works on collective psychic trauma that is transmitted from one generation to another. 
+ 
+gentrification 
+ 
+germaphobia 
+BT phobias 
+ 
+ghost films 
+BT horror films 
+ 
+ghost towns 
+ 
+ghosts 
+UF phantoms 
+spirits 
+BT unseen entity 
+NT doppelgängers 
+poltergeists 
+ 
+giallo films^ 
+BT horror films 
+ 
+giant spiders 
+BT spiders 
+ 
+girl bands USE all-girl bands (music) or women’s bands (music) 
+ 
+girls 
+BT children 
+ 
+global crisis 
+ 
+Good and evil 
+BT ethics 
+ 
+gore films 
+BT horror films 
+splatter films 
+ 
+Gothic USE Gothic culture (subculture) 
+ 
+Gothic culture (subculture) 
+UF Gothic 
+ 
+Gothic films 
+BT classic horror films 
+horror films 
+ 
+Grand Guignol 
+BT horror films 
+RT Le Théâtre du Grand-Guignol 
+grave robbing 
+BT theft 
+ 
+graveyard 
+RT cemeteries 
+greed 
+BT wealth—moral and ethical aspects 
+ 
+Greek mythology  
+UF Greek myths 
+ 
+Greek myths USE Greek mythology 
+ 
+ 
+ 
+grief 
+BT emotions 
+      loss (psychology) 
+ 
+grindhouse films^ 
+BT horror films 
+hallucinations 
+RT drug use 
+mental illness 
+ 
+Halloween 
+BT holidays 
+ 
+hallucinations 
+BT subconsciousness 
+ 
+Hammer films 
+BT horror films 
+ 
+harassment 
+NT sexual harassment 
+ 
+haunted dolls 
+BT dolls 
+      haunted toys 
+ 
+haunted hotels 
+BT haunted places 
+ 
+haunted house films 
+BT horror films 
+ 
+haunted houses 
+BT haunted places 
+ 
+haunted objects 
+NT haunted puppets 
+haunted toys 
+ 
+haunted places 
+NT haunted hotels 
+       haunted houses 
+haunted sheds 
+haunted woods 
+ 
+haunted puppets 
+BT haunted objects 
+      puppets 
+ 
+haunted sheds 
+BT haunted places 
+ 
+haunted toys 
+BT haunted objects 
+      toys 
+NT haunted dolls 
+ 
+haunted woods 
+BT haunted places 
+     woods (forests) 
+ 
+hazardous wastes 
+RT toxic wastes 
+ 
+heavy metal USE heavy metal (music) 
+ 
+heavy metal (music) 
+UF heavy metal 
+BT rock music 
+ 
+high school 
+BT schools 
+RT high school shootings 
+ 
+high school shootings 
+BT high school 
+     school shooting 
+     violent deaths 
+ 
+hired killers USE assassins 
+history 
+NT massacres 
+ 
+hixploitation^ 
+BT exploitation films 
+ 
+ 
+ 
+ 
+ 
+holidays 
+NT Christmas 
+Halloween 
+Easter 
+Thanksgiving 
+RT vacations 
+ 
+home 
+RT family 
+      marriage 
+ 
+home invasion 
+BT violent crime 
+ 
+hookers USE sex workers 
+ 
+horror films 
+NT animation 
+anime 
+anthology films 
+Asian extreme films 
+art house films 
+autobiographical films 
+b movies 
+black comedy 
+BlaxpJoitation 
+body horror 
+body horror films 
+cannibal films 
+cautionary tales? 
+classic horror films 
+comedy films 
+creature features 
+cult films 
+dark fairytales 
+dark fantasy 
+Dracula films 
+eco horror 
+Evil Dead? 
+exploitation films 
+fairy tales 
+folk horror 
+found footage films 
+film noir 
+Frankenstein films 
+ghost films 
+giallo films 
+Gothic films 
+Grand Guignol 
+grindhouse films 
+Hammer films 
+haunted house films 
+independent films 
+Inner Sanctum Mysteries 
+Le Théâtre du Grand-Guignol 
+Lovecraftian films 
+mad scientist films 
+monster films 
+mummy films 
+musical films 
+new French extremity films 
+parody films 
+psycho-biddy 
+psychological horror films 
+queer horror 
+rape revenge films 
+revenge films 
+science fiction films 
+serial killer films 
+short films 
+silent films 
+slasher films 
+splatter films 
+survival films 
+thriller films 
+vampire films 
+video nasty 
+werewolf films 
+Western films 
+witch films 
+Wolf Man films 
+zombie films 
+ 
+horror hosts  
+NT Elvira 
+ 
+hospitals 
+BT medical facilities 
+ 
+ 
+H.P. Lovecraft 
+RT Lovecraftian films 
+ 
+human sacrifice 
+NT sacrifice of virgins 
+voluntary human sacrifice 
+ 
+human trafficking 
+BT sexual abuse 
+ 
+hunting 
+NT poaching 
+ 
+hypnotism 
+UF mind control 
+ 
+identity 
+ 
+illness 
+RT diseases 
+ 
+imaginary friends 
+ 
+immortality 
+ 
+incest 
+BT sexual abuse 
+ 
+incubus 
+BT spirits 
+ 
+independence 
+ 
+independent films 
+UF indie films 
+BT horror films 
+ 
+indie films USE independent films 
+ 
+industrial 
+ 
+infanticide 
+BT murder 
+ 
+ 
+infection 
+NT communicable diseases 
+ 
+infestation 
+ 
+inheritance   
+ 
+Inner Sanctum Mysteries 
+BT horror films 
+ 
+Inquisition USE Inquisition—Spain 
+ 
+Inquisition--Spain  
+UF Inquisition 
+ 
+insane USE mental illness 
+ 
+insanity 
+RT madness 
+ 
+insects 
+NT bees 
+      bed bugs 
+      true bugs 
+      wasps 
+ 
+international 
+ 
+internet 
+NT wireless  
+ 
+interracial relationships 
+BT relationships 
+ 
+interviews 
+ 
+invasion 
+NT alien invasion 
+ 
+Ireland 
+ 
+isolation 
+ 
+ 
+ 
+Jack the Ripper 
+BT serial killers 
+      serial murderers     
+ 
+Japan 
+ 
+Japanese 
+ 
+jealousy 
+BT emotions 
+RT relationships 
+rivalry 
+ 
+Jewish people 
+ 
+Joe R. Lansdale 
+journals 
+RT diaries 
+BT personal narratives 
+ 
+kidnapping 
+RT abduction 
+      child abduction 
+ 
+killer clowns 
+BT clowns 
+ 
+killer robots 
+BT robots 
+ 
+killers 
+BT criminals 
+RT murderers 
+NT serial killers 
+      sex killers  
+ 
+Korea (South) 
+UF South Korea 
+ 
+Latinx 
+ 
+Le Théâtre du Grand-Guignol 
+BT horror films 
+RT Grand Guignol 
+legends 
+BT folklore 
+ 
+leopards 
+BT animals 
+ 
+lesbian relationships 
+BT LGBTQ+ relationships^^ 
+      relationships 
+      romance 
+ 
+lethal injection USE lethal injection (execution) 
+ 
+lethal injection (execution) 
+UF lethal injection 
+BT death penalty 
+ 
+levitation 
+BT psychokinesis 
+ 
+LGBTQ^^ 
+BT LGBTQ+^^ 
+     LGBTQIA^^ 
+ 
+LGBTQ+^^ 
+NT LGBTQ^^ 
+ 
+LGBTQ+ relationships^^ 
+NT lesbian relationships 
+ 
+LGBTQIA^^ 
+NT LGBTQ^^ 
+ 
+librarians 
+ 
+lighthouse 
+ 
+Lovecraftian films 
+BT horror films 
+RT H.P. Lovecraft 
+ 
+loss USE loss (psychology) 
+ 
+ 
+ 
+loss (psychology) 
+UF loss 
+NT grief 
+ 
+lost 
+ 
+love  
+BT emotions 
+ 
+mad scientist films 
+BT creature features 
+      horror films 
+ 
+madness  
+BT emotions 
+RT insanity 
+ 
+magic 
+BT occultism 
+RT sorcery 
+ 
+male privilege 
+BT privilege (social psychology) 
+ 
+mania 
+BT mental illness 
+ 
+manipulation 
+ 
+marriage 
+BT relationships 
+RT home 
+NT adultery 
+ 
+Mars USE Mars (planet) 
+ 
+Mars (planet) 
+UF Mars 
+ 
+massacres 
+BT history 
+ 
+medical devices 
+ 
+ 
+medical experiments 
+BT medical procedures 
+ 
+medical facilities 
+NT hospitals 
+ 
+medical procedures 
+NT amputation 
+blood donation 
+medical experiments 
+ostomy 
+plastic surgery 
+ 
+melodrama 
+ 
+memory 
+BT psychology 
+ 
+menstruation 
+RT periods 
+ 
+mental abuse 
+BT abuse 
+ 
+mental hospitals 
+BT asylums 
+ 
+mental illness 
+UF insane 
+BT disabilities 
+NT alcoholism 
+bipolar disorder 
+dementia 
+depression 
+hallucinations 
+mania 
+Munchausen syndrome by proxy 
+multiple personality disorder 
+narcissism 
+paranoia 
+postpartum depression 
+prepartum depression 
+psychosis 
+schizophrenia 
+RT mentally ill 
+      self harm 
+ 
+mentally ill 
+RT mental illness 
+      mental patient 
+NT psychopaths 
+ 
+mental patient 
+RT mentally ill 
+      mental illness 
+NT psychopaths 
+ 
+mermaids 
+BT monsters 
+ 
+metaphysics USE parapsychology 
+ 
+#MeToo USE #MeToo movement 
+ 
+#MeToo movement 
+UF #MeToo 
+ 
+Middle Ages 
+ 
+mind control USE hypnotism 
+ 
+miscarriage 
+ 
+misogyny 
+ 
+missing children 
+BT children 
+     missing persons 
+ 
+missing persons 
+BT persons 
+ 
+mockumentaries 
+RT documentary-style films 
+ 
+money 
+ 
+monkeys 
+BT animals 
+ 
+monster films 
+BT horror films 
+RT creature features 
+ 
+monsters 
+NT mermaids 
+mummies 
+mummy 
+undead 
+vampires 
+vrykolakas 
+were-creatures 
+werewolves 
+zombies 
+ 
+motherhood 
+BT parenthood 
+RT mothers 
+ 
+mothers 
+BT women 
+RT daughters 
+      motherhood 
+      pregnant women      
+NT single mothers 
+ 
+multiple personality disorder 
+BT mental illness 
+ 
+mummies 
+BT monsters 
+RT mummy 
+NT undead 
+ 
+mummy 
+BT monsters 
+RT mummies 
+NT undead  
+ 
+mummy films 
+BT creature features 
+      horror films 
+ 
+Munchausen syndrome by proxy 
+BT child abuse 
+murder 
+BT violent crime 
+violent death 
+RT murders 
+NT filicide 
+fratricide 
+infanticide 
+school shooting 
+sororicide 
+ 
+murderers 
+BT criminals 
+RT killers 
+NT school shooters 
+serial killers 
+       sex killers 
+ 
+murders 
+RT murder 
+ 
+music 
+NT rock music 
+ 
+musical films 
+BT horror films 
+RT musicals 
+ 
+musicals 
+BT horror films 
+RT musical films 
+music videos 
+ 
+mutants 
+ 
+mutation (biology)? 
+UF mutations 
+NT animal mutation 
+ 
+mutations USE mutation (biology)? 
+ 
+mutilation 
+NT self-mutilation 
+ 
+mystery 
+ 
+mythological creatures  
+NT banshees 
+      Churail 
+      mermaids 
+ 
+narcissism 
+BT mental illness 
+ 
+natural disasters 
+ 
+nature  
+ 
+Nazis 
+ 
+neurological conditions 
+NT coma 
+ 
+New England 
+ 
+New French extremity films 
+BT horror films 
+ 
+New Zealand 
+ 
+night terrors 
+BT sleep disorders 
+ 
+nightmares 
+BT dreams 
+ 
+Nineteenth century 
+NT Victorian era 
+       1890s 
+ 
+nonfiction films 
+NT documentary films 
+      true crime 
+ 
+nuclear explosions 
+ 
+nuclear plants USE nuclear power plants 
+ 
+nuclear power plants 
+UF nuclear plants 
+ 
+nuclear warfare 
+nudie cuties* 
+ 
+nudist camps 
+BT camps 
+ 
+nuns 
+ 
+objectification USE objectification (social psychology) 
+ 
+objectification (social psychology) 
+Here are entered works on the treatment of individuals or social groups as objects rather than as persons. 
+UF objectification 
+ 
+obsession (separate term or RT for obsessive compulsive disorder?) 
+ 
+obsessive compulsive disorder 
+RT OCD 
+ 
+OCD 
+RT obsessive compulsive disorder 
+ 
+occultism 
+UF black arts 
+black magic 
+BT religions 
+supernatural 
+NT divination 
+haunted places 
+magic 
+sorcery 
+witchcraft 
+RT parapsychology 
+ 
+office 
+ 
+office politics 
+ 
+oppositional defiant disorder in children 
+BT behavioral disorders in children 
+ 
+ostomy 
+BT medical procedures 
+ 
+otherness 
+ 
+Ouija USE Ouija boards 
+ 
+Ouija boards 
+UF Ouija 
+RT spirit boards  
+ 
+outbreak  
+RT communicable diseases 
+      disease 
+      epidemics 
+NT COVID-19 Pandemic, 2020- 
+      pandemics 
+ 
+Paganism 
+Here are entered works on polytheistic religion of ancient or traditional origin. Works on the 20th century revival of polytheistic faith centered on the worship of the Great Mother Goddess are entered under [Neopaganism.] 
+BT religions 
+ 
+pandemic 
+BT epidemics 
+      outbreak 
+NT COVID-19 Pandemic, 2020- 
+ 
+paranoia 
+BT mental illness 
+ 
+parapsychology 
+UF metaphysics 
+BT psychology 
+RT occultism 
+NT astral projection 
+electronic voice phenomenon 
+extrasensory perception 
+psychokinesis 
+       visions 
+ 
+parenthood 
+RT families 
+NT fatherhood 
+motherhood 
+ 
+ 
+parents 
+NT single fathers 
+single mothers 
+ 
+park ranger  
+ 
+parody  
+RT parody films 
+ 
+parody films 
+BT horror films 
+      satire 
+RT parody 
+parties 
+NT dinner parties 
+ 
+party games 
+BT games 
+ 
+periods 
+RT menstruation 
+ 
+personal narratives (add for reference or delete tag?)  
+ 
+persons 
+NT missing persons 
+      psychics  
+      religious adherents        
+      vigilantes 
+ 
+phantoms USE ghosts 
+ 
+phobias 
+BT fear 
+NT acrophobia 
+agoraphobia 
+germaphobia 
+       social anxiety  
+ 
+phone sex operators 
+BT sex workers 
+ 
+photography 
+ 
+physical abuse 
+BT abuse 
+ 
+piercings 
+BT body modification 
+ 
+plagues 
+NT Red Death 
+ 
+pleasure  
+BT ethics 
+NT sensuality 
+ 
+poaching 
+BT hunting 
+ 
+police 
+BT criminal justice, administration of 
+NT detectives 
+ 
+politicians 
+ 
+poltergeists 
+BT ghosts 
+ 
+possession 
+NT demonic possession 
+ 
+postpartum depression 
+BT depression 
+mental illness 
+prepartum depression 
+ 
+post-traumatic stress disorder 
+RT PTSD 
+ 
+practical jokes 
+RT pranks 
+ 
+pranks 
+BT deception? 
+RT practical jokes 
+ 
+pregnancy 
+NT pregnant women 
+pregnant women 
+BT pregnancy 
+      women 
+RT mothers 
+ 
+prehistoric  
+ 
+prepartum depression 
+BT depression 
+      mental illness 
+RT (or NT?) postpartum depression 
+ 
+privacy 
+RT secrecy 
+ 
+privilege USE privilege (social psychology) 
+ 
+privilege (social psychology) 
+Here are entered works on advantages that are conferred due to social attributes. 
+UF privilege 
+NT male privilege 
+      white privilege 
+ 
+psychics 
+BT persons 
+ 
+psycho-biddy^ 
+BT horror films 
+ 
+psychokinesis 
+BT parapsychology 
+NT levitation 
+telekinesis 
+teleportation 
+ 
+psychological horror films 
+BT horror films 
+ 
+psychological thriller 
+BT horror films 
+ 
+ 
+ 
+ 
+ 
+psychology 
+NT emotions 
+       memory 
+       parapsychology 
+       subconsciousness 
+ 
+psychopaths 
+BT mentally ill 
+NT sex killers 
+ 
+psychosis 
+BT mental illness 
+NT dementia 
+ 
+PTSD 
+RT post-traumatic stress disorder 
+ 
+puberty 
+ 
+punishment in crime deterrence 
+UF crime and punishment? 
+ 
+punk rock music 
+BT rock music 
+ 
+puppets 
+RT haunted puppets 
+ 
+puzzles 
+BT games 
+ 
+pyromania 
+ 
+queer horror 
+BT horror films 
+ 
+racism 
+ 
+rape 
+BT sexual abuse 
+RT sex killers 
+      sexual assault 
+ 
+rape revenge 
+BT revenge 
+rape revenge films^ 
+BT horror films 
+ 
+Rasputin 
+ 
+real estate 
+ 
+reality television 
+ 
+reanimation 
+ 
+Red Cross  
+ 
+Red Death 
+BT plagues 
+RT Edgar Allan Poe 
+ 
+regret 
+BT emotions 
+ 
+reincarnation 
+ 
+relationships 
+NT abusive relationships 
+       dating 
+       dysfunctional relationships 
+gay relationships 
+female friendships 
+interracial relationships 
+marriage 
+lesbian relationships 
+romantic relationships 
+RT jealousy 
+      secrecy 
+ 
+religions 
+NT Christian cults 
+Christianity 
+Paganism 
+Satanic cults 
+Satanism 
+Voodoo 
+ 
+religious USE religious adherents (or religious believers?) 
+ 
+religious adherents 
+UF religious 
+BT persons 
+NT zealots 
+ 
+religious rituals USE rituals 
+ 
+restaurants 
+ 
+revenge  
+NT rape revenge 
+ 
+revenge films 
+BT horror films 
+ 
+rituals  
+Use as a topical subdivision under names of individual secret societies and under individual religions other than Judaism and its sects. 
+UF religious rituals 
+ 
+rivalry 
+RT jealousy 
+ 
+road rage 
+BT violence 
+ 
+road trips 
+ 
+roadkill 
+ 
+robbery 
+BT theft 
+ 
+robots 
+NT android 
+      killer robots 
+ 
+rock music 
+BT music 
+NT heavy metal (music) 
+      punk rock music 
+ 
+romance  
+RT romance films 
+ 
+romance films  
+RT romance 
+ 
+romantic relationships 
+BT relationships 
+Russia 
+ 
+sacrifice of virgins 
+BT human sacrifice 
+ 
+samurai 
+ 
+Satanic 
+RT Satanism 
+ 
+Satanic Panic 
+ 
+Satanism 
+UF devil worship 
+BT cults 
+occultism 
+religions 
+RT Satanic 
+ 
+satire 
+NT parody films 
+ 
+scarification 
+BT body modification 
+ 
+schizophrenia 
+BT mental illness 
+ 
+school shooters 
+BT murderers 
+ 
+school shooting 
+BT high school 
+violent crime 
+violent death 
+NT high school shootings 
+ 
+schools 
+NT college 
+      high school 
+science experiments USE science—experiments 
+UF experiments 
+      scientific experiments 
+ 
+science fiction films 
+BT horror films 
+ 
+scientific experiments USE science—experiments  
+ 
+sculpture 
+BT art 
+ 
+secrecy 
+RT privacy 
+      relationships 
+NT family secrets 
+ 
+self-harm 
+RT body image 
+mental illness 
+ 
+self-mutilation 
+BT mutilation 
+ 
+senses and sensation  
+NT sensuality 
+ 
+sensuality 
+BT pleasure 
+     senses and sensation 
+ 
+serial killer films 
+BT horror films 
+ 
+serial killers 
+BT murderers 
+      killers 
+RT serial murderers 
+NT Jack the Ripper 
+      sex killers 
+      women serial killers 
+ 
+serial murderers  
+RT serial killers 
+NT Jack the Ripper 
+sex 
+RT sexuality 
+ 
+sex killers 
+BT murderers 
+     killers 
+     psychopaths 
+     serial killers 
+RT rape 
+      splatter films 
+      video nasty 
+ 
+sex offenders 
+UF sexual predators 
+BT criminals 
+NT child molesters 
+ 
+sex workers 
+NT phone sex operators 
+ 
+sexual abuse 
+BT crime 
+NT child sexual abuse 
+      incest 
+      rape 
+ 
+sexual assault 
+RT rape 
+BT sexual abuse 
+ 
+sexual harassment 
+BT harassment 
+NT cat calling 
+      street harassment 
+ 
+sexual identity^^ 
+ 
+sexual predators USE sex offenders 
+ 
+sexuality  
+RT sex 
+ 
+shapeshifting 
+RT were-creatures 
+      werewolves 
+shopping malls 
+ 
+short films 
+BT horror films 
+ 
+siblings 
+NT brothers 
+      sisters 
+      twins 
+ 
+silent films 
+BT horror films 
+ 
+single fathers 
+BT parents 
+ 
+single mothers 
+BT mothers 
+     parents 
+ 
+sisters 
+BT family 
+siblings 
+women 
+ 
+slasher 
+RT slasher films 
+ 
+slasher films 
+Films featuring teenagers or young adults who are stalked and graphically killed by a psychopathic killer.  
+BT horror films 
+RT slasher 
+ 
+sleep disorders 
+NT catatonia 
+      night terrors 
+      sleep paralysis 
+      sleepwalking 
+      somnambulism 
+ 
+sleep paralysis 
+BT sleep disorders 
+ 
+ 
+sleepovers  
+Here are entered works on school-age or younger children sleeping over at another person's home. 
+UF slumber parties 
+ 
+sleepwalking 
+BT sleep disorders 
+RT somnambulism 
+ 
+slumber parties USE sleepovers 
+BT parties? 
+RT sleepovers 
+ 
+snakes 
+BT animals 
+ 
+social anxiety 
+BT anxiety 
+      phobias 
+ 
+social conflict 
+UF class warfare 
+ 
+social experiments  
+ 
+social justice 
+NT environmental justice 
+ 
+social media 
+BT technology 
+ 
+somnambulism 
+BT sleep disorders 
+RT sleepwalking 
+ 
+soothsaying USE divination 
+ 
+sorcery 
+BT occultism 
+RT magic 
+ 
+sororicide 
+BT murder 
+ 
+sororities  
+ 
+South Korea USE Korea (South) 
+ 
+Southern United States 
+ 
+space and time 
+UF space-time continuum 
+NT time loop 
+      time travel 
+       
+space-time continuum USE space and time 
+ 
+spiders 
+NT giant spiders 
+      tarantulas 
+ 
+spirit boards 
+RT Ouija boards 
+ 
+spirits 
+BT occultism 
+RT ghosts 
+      doppelgängers 
+      unseen entity 
+NT angels 
+      demons 
+      incubus 
+ 
+splatter films 
+Films featuring explicit gore and graphic violence, including mutilation of the human body, are entered under splatter films. 
+UF gore films 
+BT horror films 
+ 
+stalkers 
+BT criminals 
+Stone Age 
+ 
+storytelling 
+RT folklore 
+ 
+strangers 
+ 
+ 
+ 
+ 
+street drugs 
+Here are entered works on those mind-altering drugs, such as alcohol, hallucinogens, marijuana, narcotics, sedatives, and stimulants, that governments seek to control because they are liable to be abused. 
+BT drugs 
+ 
+street gangs 
+BT criminals 
+RT gangs 
+ 
+street harassment 
+BT sexual harassment 
+RT cat calling 
+ 
+subconsciousness 
+BT psychology 
+NT dreams 
+      hallucinations  
+ 
+suicide 
+BT death--causes 
+ 
+supernatural 
+NT occultism 
+      spirits 
+ 
+surrealism 
+ 
+survival films 
+BT horror films 
+ 
+swamp 
+ 
+tarantulas 
+BT spiders 
+ 
+tarot cards 
+NT divination 
+ 
+tattoos 
+BT body modification 
+ 
+ 
+ 
+ 
+taxidermy 
+Here are entered works on the preparation of animal mounts for exhibition. For works on the taxidermy of particular groups of animals, an additional subject entry is made under the name of the group of animals with the subdivision [Collection and preservation,] e.g. [1. Fishes--Collection and preservation 2. Taxidermy.] 
+ 
+technology 
+NT cell phones 
+social media 
+video 
+Zoom 
+ 
+teenagers 
+NT abused teenagers 
+ 
+telekinesis 
+BT psychokinesis 
+ 
+teleportation 
+BT psychokinesis 
+ 
+television movie 
+ 
+terror 
+BT fear 
+ 
+Thanksgiving 
+BT holidays 
+ 
+theft 
+NT burglary 
+      grave robbing 
+      robbery   
+ 
+therapy USE therapeutic use 
+ 
+therapeutic use 
+Use as a topical subdivision under topical headings for works on their use in treating disease. [Energy healing/vital force, exercise, magnets, massage, swimming, etc.]  
+UF therapy 
+ 
+thesis 
+ 
+thriller  
+RT thriller films 
+thriller films 
+Here are entered works on films that feature a build up of suspense, tension, uncertainty, menace, and anxiety as primary elements and in which the audience is kept on tenterhooks. Works on the use of suspense in motion pictures, television programs, and video recordings are entered under. [Suspense in motion pictures, television, etc.] 
+BT horror films 
+RT thriller 
+ 
+time loop 
+BT space and time 
+ 
+time travel 
+BT space and time 
+ 
+torture 
+ 
+toxic waste 
+RT hazardous wastes 
+ 
+toys 
+NT dolls 
+      haunted toys 
+ 
+trauma USE emotional trauma? 
+ 
+trans women 
+BT women 
+ 
+transformation 
+ 
+true bugs 
+UF bugs 
+BT insects 
+ 
+true crime 
+BT nonfiction films 
+ 
+twins 
+BT siblings 
+ 
+tyrrants USE tyrants (May be a typo) 
+ 
+tyrants 
+UF tyrrants (may be a typo) 
+ 
+undead 
+BT monsters 
+NT mummies 
+      mummy 
+      vampires 
+      vrykolakas 
+      zombies 
+ 
+United States—History—Civil War, 1861-1865 
+UF Civil War? 
+ 
+unseen entity 
+RT spirits 
+NT angels 
+      demons 
+      ghosts 
+ 
+urban legends 
+RT folklore 
+ 
+vacations 
+RT holidays 
+ 
+vampire films 
+BT creature features 
+      horror films 
+ 
+vampires 
+BT monsters 
+RT vrykolakas 
+ 
+victim blaming 
+ 
+Victorian era 
+BT Nineteenth century 
+ 
+video 
+BT technology 
+ 
+video nasty^ 
+BT exploitation films 
+      horror films 
+RT sex killers 
+ 
+ 
+vigilante 
+BT persons 
+ 
+violence 
+NT road rage 
+      violent crime 
+ 
+violent crime 
+BT violence 
+NT home invasion 
+ 
+violent death 
+BT death--causes 
+NT accidents 
+       homicide 
+school shooting 
+ 
+virus 
+NT COVID-19 Pandemic, 2020- 
+ 
+visions 
+BT parapsychology 
+NT dreams 
+    
+voluntary human sacrifice 
+BT sacrifice 
+ 
+Voodoo 
+BT religions 
+ 
+voyeurism 
+ 
+vrykolakas 
+BT folkfore 
+      monsters 
+      undead 
+RT vampires 
+ 
+war 
+NT atomic warfare 
+ 
+warlocks 
+RT witches 
+ 
+ 
+wasps 
+BT insects 
+ 
+wealth—moral and ethical aspects  
+NT greed 
+ 
+wealthy USE wealthy people 
+ 
+wealthy people 
+UF wealth 
+ 
+were-creatures 
+BT monsters 
+RT shapeshifting 
+NT werewolves 
+ 
+werewolf films 
+BT creature features 
+      horror films 
+ 
+ werewolves 
+BT monsters 
+      were-creatures  
+RT shapeshifting 
+ 
+western 
+RT Western films 
+ 
+Western films 
+BT horror films 
+RT western 
+ 
+white privilege 
+BT privilege (social psychology) 
+ 
+widows 
+BT women 
+ 
+wireless 
+BT internet 
+ 
+wishes 
+ 
+witch films 
+BT horror films 
+witch hunts  
+ 
+witchcraft 
+BT occultism 
+ 
+witches 
+RT warlocks 
+ 
+Wolf Man films 
+BT classic horror films 
+horror films 
+ 
+women 
+NT abused women 
+abusive women 
+mothers 
+pregnant women 
+sisters 
+trans women 
+widows 
+women serial killers 
+ 
+women serial killers  
+BT women 
+ 
+women's rights 
+ 
+woods USE woods (forests) 
+ 
+woods (forests) 
+UF woods 
+NT haunted woods 
+ 
+World War II USE World War II, 1939-1945 
+ 
+World War II, 1939-1945 
+UF World War II 
+ 
+Yakuza 
+ 
+zealots 
+BT religious adherents 
+ 
+ 
+ 
+zombies 
+UF zombis 
+BT monsters 
+undead 
+ 
+zombie films 
+BT creature features 
+      horror films 
+ 
+Zoom 
+BT technology 
+ 
+1890s 
+BT Nineteenth century 
+ 
+1950s
